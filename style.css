@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100&family=Graduate&family=Iceland&family=Marvel&family=Michroma&family=Quantico&family=Saira+Extra+Condensed:wght@100&family=Sarpanch&family=Share+Tech&family=Share+Tech+Mono&family=Turret+Road:wght@200&family=ZCOOL+QingKe+HuangYou&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: white;
+    
+}
+.main{
+    background-color:#0e290e;
+    margin: 100px auto;
+    border: 30px solid #242424;
+    border-radius: 30px 30px 5px 5px;
+    width: 500px;
+    height: 182px;
+    position: relative;
+    padding: 15px;
+    
+}
+.C-badge{
+    background-color:black;
+    color: white;
+    padding: 5px 10px ;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: 40%;
+
+}
+
+.clock{
+    font-size: 80px;
+    text-align: center;
+    height: 100%;
+    /*padding-top: 30px; */
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    color: lime;
+}
